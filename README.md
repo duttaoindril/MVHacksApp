@@ -1,4 +1,4 @@
 MVHacksApp
 ==========
 
-Th
+The app for MVHacks.
