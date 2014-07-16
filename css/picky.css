@@ -1,0 +1,8 @@
+@import url("topcoat-desktop-dark.min.css") screen and (min-device-width:1025px);
+@import url("topcoat-mobile-dark.min.css") screen and (max-device-width:1024px);
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
